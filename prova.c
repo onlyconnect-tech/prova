@@ -4,5 +4,5 @@
 
 void main() {
 
-    printf("CIAO");
+    printf("CIAO\n");
 }
